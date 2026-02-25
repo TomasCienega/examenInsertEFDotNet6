@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\viewmodel\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\viewmodel\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6\\exameninsertefdotnet6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AF8A916-8795-4023-9B10-169510580BE2}|examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj|solutionrelative:exameninsertefdotnet6\\exameninsertefdotnet6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "examenInsertEFDotNet6",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj",
+              "RelativeToolTip": "examenInsertEFDotNet6\\examenInsertEFDotNet6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T22:21:03.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwIkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T22:20:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:18:05.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoVM.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\ViewModel\\EmpleadoVM.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\ViewModel\\EmpleadoVM.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\ViewModel\\EmpleadoVM.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\ViewModel\\EmpleadoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:15:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Models\\Empleado.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:12:57.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Models\\Departamento.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:12:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "examenInsertEFDotNet6Context.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Context\\examenInsertEFDotNet6Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:05:55.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Program.cs",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\Program.cs",
+              "RelativeToolTip": "examenInsertEFDotNet6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:43:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\appsettings.json",
+              "RelativeDocumentMoniker": "examenInsertEFDotNet6\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\examenInsertEFDotNet6\\appsettings.json",
+              "RelativeToolTip": "examenInsertEFDotNet6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T21:43:00.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
