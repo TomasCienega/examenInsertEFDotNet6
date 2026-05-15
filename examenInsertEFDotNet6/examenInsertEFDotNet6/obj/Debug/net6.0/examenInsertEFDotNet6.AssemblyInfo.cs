@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examenInsertEFDotNet6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bacbf20f7c76e2133bc3c2765733816e75744952")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2041e35591796f4d288a52842d1a1c5d133c185f")]
 [assembly: System.Reflection.AssemblyProductAttribute("examenInsertEFDotNet6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examenInsertEFDotNet6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
